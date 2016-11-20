@@ -7,7 +7,7 @@ C# BackgroundWorker with Progressbar Update and cancellation.http://camposha.inf
 - When it finishes it displays work completed messagebox
 
 
-![BackgroundWorker](demos/BgWorker.jpg,"backgroundWorker")
+![BackgroundWorker](demos/BgWorker.jpg)
 
 
 Author :
